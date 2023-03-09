@@ -4,9 +4,9 @@
 
 
 - compile this project in Release
-- download package https://www.nuget.org/packages/Xamarin.AndroidX.AppCompat.AppCompatResources
+- download package version 1.6.0.1 from https://www.nuget.org/packages/Xamarin.AndroidX.AppCompat.AppCompatResources
 - extract package
-- replace 1.6.0.1 to 1.6.0.2 in .nuspec file
+- replace version descriptions for this package from 1.6.0.1 to 1.6.0.2 in .nuspec file
 - replace dlls in folder \lib\monoandroid12.0 with output from this project
 - zip everything into archive nammed xamarin.androidx.appcompat.appcompatresources.1.6.0.2.nupkg
 - store this nuget into your local nuget source
